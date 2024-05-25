@@ -1,6 +1,6 @@
 # POWER-BI-PORTFOLIO
 
-All my PowerBI Projects are here...
+All my PowerBI Projects are here...   Due to sudden Updates of Novypro 
 
 --What I have learn--
 
