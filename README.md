@@ -17,4 +17,17 @@ Select the right chart
 Dashboard Design
 
 
+ Data connection 
+ 
+ Data Cleaning / Quality Check
+ 
+ Data Modeling
+ 
+ DAX Calculations 
+ 
+ Dashboard Lay outing
+
+ Insights Generation
+
+
 
