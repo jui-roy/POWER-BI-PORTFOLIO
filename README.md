@@ -29,5 +29,7 @@ Dashboard Design
 
  Insights Generation
 
+ Fabric publish
+
 
 
